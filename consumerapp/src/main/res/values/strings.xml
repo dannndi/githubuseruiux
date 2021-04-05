@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="username">Username</string>
+    <string name="not_have_favorite_user_yet">Not have favorite user yet</string>
+</resources>

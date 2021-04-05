@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GithubUserUIUX</string>
+    <string name="status_search">You haven\'t searched yet</string>
+    <string name="status_search_not_found">Not Found</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search on Github</string>
+    <string name="github_user">GITHUB USER</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="detail_page">Detail Page</string>
+    <string name="not_have_followers">Not Have Followers Yet !</string>
+    <string name="not_have_following">Not Following Anyone</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="remove_from_favorite">Remove From Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="not_have_favorite_user_yet">Not Have Favorite User Yet</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="title_activity_settings">Setting</string>
+    <string name="reminder_on">ON</string>
+    <string name="reminder_of">OF</string>
+    <string name="reminder_message">Find yout favorite user on Github now !</string>
+    <string name="appwidget_text">Favorite User</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty</string>
+</resources>

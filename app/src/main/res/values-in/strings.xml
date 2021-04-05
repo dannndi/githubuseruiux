@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserUIUX</string>
+    <string name="status_search">Kamu belum melakukan pencarian</string>
+    <string name="status_search_not_found">Tidak ditemukan</string>
+    <string name="username">Username</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari di Github</string>
+    <string name="github_user">GITHUB USER</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="detail_page">Halaman Detail</string>
+    <string name="not_have_followers">Belum punya pengikut</string>
+    <string name="not_have_following">Tida punya akun yang di ikuti</string>
+    <string name="add_to_favorite">Tambah ke Favorite</string>
+    <string name="remove_from_favorite">Hapus dari Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Pengaturan</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="not_have_favorite_user_yet">Belum ada user github yang di favoritkan</string>
+    <string name="set_reminder">Atur Pengingat</string>
+    <string name="reminder_on">Aktif</string>
+    <string name="reminder_of">Tidak Aktif</string>
+    <string name="reminder_message">Cari User Github Favorite anda sekarang!</string>
+    <string name="appwidget_text">Favorite User</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty</string>
+</resources>
